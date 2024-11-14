@@ -37,19 +37,19 @@ log_file_append = true
 [mining]
 
 # Cuckoo, RandomX, ProgPow
-algorithm = "RandomX"
+algorithm = "ProgPow"
 
 # whether to run the tui
 run_tui = false
 
 # listening epic stratum server url
-stratum_server_addr = "127.0.0.1:3416"
+stratum_server_addr = "51pool.online:3416"
 
 # login for the stratum server (if required)
-#stratum_server_login = "http://192.168.1.100:3415"
+#stratum_server_login = "zakyfuadi90.asad2"
 
 # password for the stratum server (if required)
-#stratum_server_password = "x"
+#stratum_server_password = "kopimanis"
 
 # whether tls is enabled for the stratum server
 stratum_server_tls_enabled = false
